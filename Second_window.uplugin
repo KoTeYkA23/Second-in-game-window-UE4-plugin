@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.2",
+	"FriendlyName": "Second in game window",
+	"Description": "Plugin with camera and second window",
+	"Category": "Editor",
+	"CreatedBy": "CaTaTo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Second_window",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
