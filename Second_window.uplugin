@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "0.2",
+	"VersionName": "0.5",
 	"FriendlyName": "Second in game window",
 	"Description": "Plugin with camera and second window",
 	"Category": "Editor",
