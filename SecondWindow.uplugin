@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.5",
+	"FriendlyName": "Second in game viewport window",
+	"Description": "Plugin with camera and second window",
+	"Category": "Editor",
+	"CreatedBy": "CaTaTo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d18fbf9e72564899a082943ecf5a0524",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+        "WhitelistPlatforms": [ "Win64", "Win32", "Mac", "IOS", "Android", "Linux" ],
+	"Modules": [
+		{
+			"Name": "SecondWindow",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
